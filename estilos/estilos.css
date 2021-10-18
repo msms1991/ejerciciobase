@@ -1,0 +1,33 @@
+#uno{
+	background-color: red;
+	color: yellow;
+	font-size: 2em; 
+	width: 10em;
+	height: 10em; position: relative; left: 0.5em;
+
+}
+
+#dos{
+	background-color:black ;
+	color: white;
+	font-size: 2em;
+	width: 10em;
+	height: 10em;
+	position: relative; left: 11em; top: -10em;
+}
+
+#tres{
+	color: yellow;
+	background-color: red;
+	font-size: 2em;
+	width: 10em;
+	height: 10em;position: relative; left: 21.5em; top: -20em;
+}
+
+#cuatro{
+	color: yellow;
+	background-color: red;
+	font-size: 2em;
+	width: 10em;
+	height: 10em; height: 10em; position: relative; left: 32em; top: -30em;
+}
